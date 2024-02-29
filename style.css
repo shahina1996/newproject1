@@ -36,12 +36,14 @@ body {
     
 }
 .lastpart {
+    height: 200px;
     color: white;
     background-color: black;
     text-transform: uppercase;
     display :flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    
 
     
 
