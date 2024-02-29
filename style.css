@@ -41,7 +41,7 @@ body {
     background-color: black;
     text-transform: uppercase;
     display :flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding-right: 10px;
     padding-left: 10px;
