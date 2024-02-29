@@ -38,9 +38,10 @@ body {
 .lastpart {
     color: white;
     background-color: black;
-    text-align: start;
     text-transform: uppercase;
-    
+    display :flex;
+    justify-content: center;
+    align-items: center;
 
     
 
