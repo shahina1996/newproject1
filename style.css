@@ -9,7 +9,10 @@ body {
     flex-direction: row;
     justify-content: space-between;
     
+    
 }
+
+
 
 .name {
     color: black;
@@ -28,7 +31,7 @@ body {
     border: 8px solid black;
     border-radius: 80px;
     align-self: flex-end;
-    margin-right: 100px;
+    margin-right: 10px;
 
     
 }
@@ -47,7 +50,7 @@ body {
 
 
 .link {
-    color: azure;
+    color: black;
 }
 .paragraph {
     margin-left: 100px;
@@ -63,8 +66,8 @@ body {
     background-color: black;
     background-size: cover;
     height: 200px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
 
     
     
@@ -74,9 +77,52 @@ body {
     width: 100px;
     height: 100px;
     margin-right: 100px;
-    padding
+    margin-left: 60px;
+    margin-bottom: 70px;
+    margin-top: 50px;
+ 
+    
+}
+.mainbody {
+    display: flex; 
     
     
+
+}
+#leftmargin {
     
+    align-content: stretch;
+    background-color: black;
+    height: 800px;
+    width: 300px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-bottom: 100px;
+}
+#leftmargin1 {
+    width: 209.5px;
+    height: 250px;
+    align-content: stretch;
+    background-color: black;
+}
+.input {
+    padding: 8px;
+    margin-top: 10px;
+}
+.button {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 8px;
     
+}
+p {
+    color: white;
+}
+a {
+    color: white;
 }
